@@ -1,0 +1,17 @@
+INDEX VERSION 1.130+/home/rlapchynski/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
+1907378988.index
+3220759912.index
+34508618.index
+1033722921.index
+1919187909.index
+1963573212.index
+3959484006.index
+1911148918.index
+90393427.index
+3491133749.index
+2904204197.index
+2600984304.index
+1922020610.index
+987846840.index
+2132298302.index
+1278496589.index

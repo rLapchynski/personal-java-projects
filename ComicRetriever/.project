@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ComicRetriever</name>
+	<comment></comment>
+	<projects>
+		<project>RecProblems</project>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>Resources</name>
+			<type>2</type>
+			<location>C:/Users/Ryan Lapchynski/EclipseWorkspace/Resources</location>
+		</link>
+	</linkedResources>
+</projectDescription>

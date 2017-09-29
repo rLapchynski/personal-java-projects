@@ -1,0 +1,20 @@
+atomic number
+symbol
+name
+atomic mass in au or g/mol
+CPK color in RRGGBB hex format
+electronic configuration
+electronegativity in Pauling
+atomic radius in pm
+ion radius in pm
+van der Waals radius in pm
+IE-1 in kJ/mol
+EA in kJ/mol
+oxidation states
+standard state
+bonding type
+melting point in K
+boiling point in K
+density in g/mL
+metal or nonmetal?
+year discovered

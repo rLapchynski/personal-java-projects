@@ -1,0 +1,9 @@
+true
+0.75
+25
+7
+
+Line 1: Always on top (true or false)
+Line 2: Opacity (0 to 1(0 is invisible, 1 is opaque))
+Line 3: Font size (height px)
+Line 4: Corner rounding (radius px)
